@@ -1,7 +1,7 @@
 ---
 title: "카테고리4"
 layout: category
-permalink: /categories/categories4/
+permalink: /categories/TodayILearned/
 author_profile: true
 taxonomy: Categories4
 sidebar:
