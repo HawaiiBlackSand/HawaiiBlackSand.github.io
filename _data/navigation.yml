@@ -18,11 +18,11 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Categories1"
-    url: /categories/categories1/
-  - title: "Categories2"
-    url: /categories/categories2/
-  - title: "Categories3"
-    url: /categories/categories3/
-  - title: "Categories4"
-    url: /categories/categories4/
+  - title: "REACT🛰️"
+    url: /categories/react/
+  - title: "TS🟦"
+    url: /categories/typescript/
+  - title: "JS🟩"
+    url: /categories/javascript/
+  - title: "TIL📙"
+    url: /categories/TodayILearned/
